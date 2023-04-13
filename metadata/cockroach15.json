@@ -1,15 +1,35 @@
 {
     "name": "Cockroach #15",
-    "description": "i don't what is this collection ",
+    "description": "Manga",
     "image": "ipfs://QmV3PytaXvQz74W1pSpnsmsBshN1VtbhYLJ6mW8SPySuTK",
     "attributes": [
       {
-        "trait_type": "background",
-        "value": "yellow"
+        "trait_type": "Eyes",
+        "value": "white and white"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Mouth",
+        "value": "white"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "white"
+      },
+      {
+        "trait_type": "Background",
+        "value": "white"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "black"
       }
     ]
   }

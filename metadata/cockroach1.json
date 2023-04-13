@@ -1,22 +1,22 @@
 {
-    "name": "cockroach #1",
+    "name": "Cockroach #1",
     "description": "cockroach fam",
     "image": "ipfs://QmStMJzD27i3GAMwKLaCw9CYwpHPQ1UpJixfoqBgLB8eEp",
     "attributes": [
       {
-        "trait_type": "eyes",
+        "trait_type": "Eyes",
         "value": "pink and yellow"
       },
       {
-        "trait_type": "mouth",
+        "trait_type": "Mouth",
         "value": "blue"
       },
       {
-        "trait_type": "body",
+        "trait_type": "Body",
         "value": "purple"
       },
       {
-        "trait_type": "blackground",
+        "trait_type": "Background",
         "value": "white"
       }
     ]

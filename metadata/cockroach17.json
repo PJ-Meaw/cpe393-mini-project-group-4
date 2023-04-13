@@ -1,15 +1,35 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #17",
+    "description": "joker",
     "image": "ipfs://QmeknxazFYRxCNLcD9Sza5qDh3Eha8MdAZDRPj35b75YJq",
     "attributes": [
       {
-        "trait_type": "background",
-        "value": "yellow"
+        "trait_type": "Eyes",
+        "value": "deep purple"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Mouth",
+        "value": "white and red"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "joker suit"
+      },
+      {
+        "trait_type": "Background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Head",
+        "value": "deep green"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "dark red"
       }
     ]
   }

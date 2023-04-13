@@ -1,15 +1,35 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #19",
+    "description": "sasuke",
     "image": "ipfs://QmQ9yJ8ros152E3CcutWgHFcgPKQzgsTaMT1KHUDe7AGd9",
     "attributes": [
       {
-        "trait_type": "background",
-        "value": "yellow"
+        "trait_type": "Eyes",
+        "value": "Sharingan"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Mouth",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "black"
+      },
+      {
+        "trait_type": "Body",
+        "value": "black with red line"
+      },
+      {
+        "trait_type": "Background",
+        "value": " dark red"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "dark gray "
       }
     ]
   }

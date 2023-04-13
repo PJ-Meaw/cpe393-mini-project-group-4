@@ -1,15 +1,31 @@
 {
-    "name": "cockroach #2",
+    "name": "Cockroach #2",
     "description": "i don't what is this collection ",
     "image": "ipfs://QmbPdiiyh75BcSNzuToSW6PBNx9kokhGkxWFVGVHPxqiQH",
     "attributes": [
       {
-        "trait_type": "background",
+        "trait_type": "Eyes",
+        "value": "pink and yellow"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "green"
+      },
+      {
+        "trait_type": "Body",
+        "value": "white"
+      },
+      {
+        "trait_type": "Background",
         "value": "yellow"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Head",
+        "value": "white"
+      },
+      {
+        "trait_type": "Moustache",
+        "value": "white"
       }
     ]
   }

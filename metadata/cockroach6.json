@@ -1,15 +1,27 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #6",
+    "description": "frankenstein",
     "image": "ipfs://QmUKHsaJWa8rBqd7z6ZCBEoUKVEntHASuGYs8PyUF1URbk",
     "attributes": [
       {
-        "trait_type": "background",
-        "value": "yellow"
+        "trait_type": "Eyes",
+        "value": "pastle purple and pastle green"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Mouth",
+        "value": "blue have wound"
+      },
+      {
+        "trait_type": "Body",
+        "value": "pastle yellow"
+      },
+      {
+        "trait_type": "Background",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white and iron"
       }
     ]
   }

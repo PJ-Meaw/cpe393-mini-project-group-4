@@ -1,15 +1,35 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #18",
+    "description": "batman",
     "image": "ipfs://QmSkZGtUt74QymsGLkoYnotrBcHdZUwXAL36nuGbmHXdZb",
     "attributes": [
       {
-        "trait_type": "background",
-        "value": "yellow"
+        "trait_type": "Eyes",
+        "value": "white"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Mouth",
+        "value": "dark gray"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "light gray and bat symbol"
+      },
+      {
+        "trait_type": "Background",
+        "value": " light blue"
+      },
+      {
+        "trait_type": "Head",
+        "value": "dark gray"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "dark gray "
       }
     ]
   }

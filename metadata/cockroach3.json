@@ -1,15 +1,35 @@
 {
-    "name": "cockroach #3",
+    "name": "Cockroach #3",
     "description": "cockroach fam",
     "image": "ipfs://QmPED9zPF7uvYnHqSdhpWM2aGFTqJLCpxDeH6XGa5fTVwH",
     "attributes": [
       {
-        "trait_type": "background",
-        "value": "yellow"
+        "trait_type": "Eyes",
+        "value": "white and blue"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Mouth",
+        "value": "mint"
+      },
+      {
+        "trait_type": "Body",
+        "value": "pastle blue"
+      },
+      {
+        "trait_type": "Background",
+        "value": "pastle pink"
+      },
+      {
+        "trait_type": "Head",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Moustache",
+        "value": "gray"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "gray"
       }
     ]
   }
