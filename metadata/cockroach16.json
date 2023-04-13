@@ -1,15 +1,35 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #16",
+    "description": "misterbeen",
     "image": "ipfs://QmPfHuLVzQhaSCnBHBoBcNm3etqYzsABcSXG6xJqquwRK8",
     "attributes": [
       {
-        "trait_type": "background",
-        "value": "yellow"
+        "trait_type": "Eyes",
+        "value": "white"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Mouth",
+        "value": "cream"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "brown suit with red tide"
+      },
+      {
+        "trait_type": "Background",
+        "value": "creamy"
+      },
+      {
+        "trait_type": "Head",
+        "value": "black"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "black"
       }
     ]
   }

@@ -1,15 +1,35 @@
 {
     "name": "Cockroach #20",
-    "description": "i don't what is this collection ",
+    "description": "cockroach fam",
     "image": "ipfs://QmWJWiCDntuV73yzpwtJ83KQdAe1hhQX1pZ1Z9tSsPTz7F",
     "attributes": [
       {
-        "trait_type": "background",
-        "value": "yellow"
+        "trait_type": "Eyes",
+        "value": "purple and orange"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Mouth",
+        "value": "blue"
+      },
+      {
+        "trait_type": "Teeth",
+        "value": "white"
+      },
+      {
+        "trait_type": "Body",
+        "value": "mint"
+      },
+      {
+        "trait_type": "Background",
+        "value": "dark green"
+      },
+      {
+        "trait_type": "Head",
+        "value": "dark purple"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "red"
       }
     ]
   }
