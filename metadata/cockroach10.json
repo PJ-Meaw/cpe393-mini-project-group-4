@@ -1,15 +1,35 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #10",
+    "description": "broken tooth",
     "image": "ipfs://QmfPPztSLTzHE3SvSq7ezHiESNrfrSsyayY5DfkqDrSkfs",
     "attributes": [
-      {
-        "trait_type": "background",
-        "value": "yellow"
-      },
-      {
-        "trait_type": "body",
-        "value": "purple"
-      }
+        {
+            "trait_type": "Eyes",
+            "value": "pink and yellow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "light pink"
+        },
+        {
+            "trait_type": "Background",
+            "value": "dark purple"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "broken tooth"
+        },
+        {
+            "trait_type": "Head",
+            "value": "black"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "red mix black"
+        }
     ]
-  }
+}

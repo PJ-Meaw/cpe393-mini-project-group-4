@@ -1,15 +1,31 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #13",
+    "description": "bandit and pirate",
     "image": "ipfs://QmYzSCXRQAhTY7djouUHzCf2zunqbiSBhnpEwxYdrZrP6o",
     "attributes": [
-      {
-        "trait_type": "background",
-        "value": "yellow"
-      },
-      {
-        "trait_type": "body",
-        "value": "purple"
-      }
+        {
+            "trait_type": "Eyes",
+            "value": "black and yellow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "soft pink"
+        },
+        {
+            "trait_type": "Body",
+            "value": "white"
+        },
+        {
+            "trait_type": "Background",
+            "value": "drab green"
+        },
+        {
+            "trait_type": "Head",
+            "value": "black headscarf"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "red"
+        }
     ]
-  }
+}

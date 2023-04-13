@@ -1,15 +1,35 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #11",
+    "description": "Can't speaking",
     "image": "ipfs://QmZiRMupsGLwno89Q5b1JhnqSYR28SKGXTEcau82WbXrLv",
     "attributes": [
-      {
-        "trait_type": "background",
-        "value": "yellow"
-      },
-      {
-        "trait_type": "body",
-        "value": "purple"
-      }
+        {
+            "trait_type": "Eyes",
+            "value": "green and orange"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Body",
+            "value": "black"
+        },
+        {
+            "trait_type": "Background",
+            "value": "gray"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "No teeth"
+        },
+        {
+            "trait_type": "Head",
+            "value": "black"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "many nose"
+        }
     ]
-  }
+}

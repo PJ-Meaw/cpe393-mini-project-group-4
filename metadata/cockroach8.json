@@ -1,15 +1,27 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #8",
+    "description": "Pirate",
     "image": "ipfs://QmesbQrXCoon998GLkYTw48zNsu9pgZfU9Vmr5wo1Tyqgu",
     "attributes": [
-      {
-        "trait_type": "background",
-        "value": "yellow"
-      },
-      {
-        "trait_type": "body",
-        "value": "purple"
-      }
+        {
+            "trait_type": "Eyes",
+            "value": "eye patch and green"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "gray"
+        },
+        {
+            "trait_type": "Body",
+            "value": "white and have black shirt"
+        },
+        {
+            "trait_type": "Background ",
+            "value": "blue"
+        },
+        {
+            "trait_type": "Head",
+            "value": "white and have a hat"
+        }
     ]
-  }
+}

@@ -1,15 +1,31 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #12",
+    "description": "prisoner",
     "image": "ipfs://QmYA1UQwzYgjrxLg8uoDse2Fg6WFnzayZNhqYzRP5ypDtG",
     "attributes": [
-      {
-        "trait_type": "background",
-        "value": "yellow"
-      },
-      {
-        "trait_type": "body",
-        "value": "purple"
-      }
+        {
+            "trait_type": "Eyes",
+            "value": "purple and purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "gray"
+        },
+        {
+            "trait_type": "Body",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "Background",
+            "value": "measuring height"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "white"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "black"
+        }
     ]
-  }
+}

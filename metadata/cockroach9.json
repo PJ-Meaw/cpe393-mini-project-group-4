@@ -1,15 +1,31 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #9",
+    "description": "groot",
     "image": "ipfs://QmUaeKaCnpDyDaibMBpp3cfR3e8bCyn2VaJhxPvCVw9Q3z",
     "attributes": [
-      {
-        "trait_type": "background",
-        "value": "yellow"
-      },
-      {
-        "trait_type": "body",
-        "value": "purple"
-      }
+        {
+            "trait_type": "Eyes",
+            "value": "pink and yellow"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Body",
+            "value": "green"
+        },
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Head",
+            "value": "drab green"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "brown color, change position and have a tree"
+        }
     ]
-  }
+}

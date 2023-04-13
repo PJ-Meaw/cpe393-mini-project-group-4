@@ -1,15 +1,31 @@
 {
-    "name": "DontKnow #5",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #7",
+    "description": "Devil",
     "image": "ipfs://QmVtMX2UVFDrgR1hNhVyoUuk1E7wpgrrNPBnT2WZRBQSmr",
     "attributes": [
-      {
-        "trait_type": "background",
-        "value": "yellow"
-      },
-      {
-        "trait_type": "body",
-        "value": "purple"
-      }
+        {
+            "trait_type": "Eyes",
+            "value": "white"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "red"
+        },
+        {
+            "trait_type": "Body",
+            "value": "red"
+        },
+        {
+            "trait_type": "Background",
+            "value": "gray and have stick"
+        },
+        {
+            "trait_type": "Head",
+            "value": "red"
+        },
+        {
+            "trait_type": "Teeth",
+            "value": "pastle yellow"
+        }
     ]
-  }
+}
