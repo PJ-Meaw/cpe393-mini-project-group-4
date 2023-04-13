@@ -1,0 +1,15 @@
+{
+    "name": "cockroach #3",
+    "description": "cockroach fam",
+    "image": "ipfs://QmPED9zPF7uvYnHqSdhpWM2aGFTqJLCpxDeH6XGa5fTVwH",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "body",
+        "value": "purple"
+      }
+    ]
+  }

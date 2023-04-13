@@ -1,0 +1,15 @@
+{
+    "name": "DontKnow #5",
+    "description": "i don't what is this collection ",
+    "image": "ipfs://QmPfHuLVzQhaSCnBHBoBcNm3etqYzsABcSXG6xJqquwRK8",
+    "attributes": [
+      {
+        "trait_type": "background",
+        "value": "yellow"
+      },
+      {
+        "trait_type": "body",
+        "value": "purple"
+      }
+    ]
+  }
