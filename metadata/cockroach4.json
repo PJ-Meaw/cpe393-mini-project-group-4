@@ -1,15 +1,31 @@
 {
-    "name": "DontKnow #4",
-    "description": "i don't what is this collection ",
+    "name": "Cockroach #4",
+    "description": "cockroach fam",
     "image": "ipfs://QmeC2iovt6FyQixGhuGvmtJat478ByyyEvvrsAVMnHDSXC",
     "attributes": [
       {
-        "trait_type": "background",
-        "value": "yellow"
+        "trait_type": "Eyes",
+        "value": "red"
       },
       {
-        "trait_type": "body",
-        "value": "purple"
+        "trait_type": "Mouth",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Body",
+        "value": "pink"
+      },
+      {
+        "trait_type": "Background",
+        "value": "brown"
+      },
+      {
+        "trait_type": "Head",
+        "value": "white"
+      },
+      {
+        "trait_type": "Moustache",
+        "value": "white"
       }
     ]
   }
