@@ -1924,7 +1924,7 @@ library Math {
 
 contract cockroach is ERC721A {
     using Strings for uint256;
-    uint256 public constant MAX_SUPPLY = 5;
+    uint256 public constant MAX_SUPPLY = 20;
     uint256 public constant START_TOKEN_ID = 1;
 
     string public baseURI;
